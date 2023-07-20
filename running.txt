@@ -1,0 +1,2 @@
+npm run dev for frontend
+dotenv watch run for backend
